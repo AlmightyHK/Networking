@@ -1,0 +1,17 @@
+Windows packet sniffers and network monitors
+--------------------------------------------
+CommView: https://www.tamos.com/products/commview/
+Cain & Abel: Discontinued
+Wireshark: https://www.wireshark.org/#download
+Net Tools 5: https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Net-Tools.shtml
+netstat: https://en.wikipedia.org/wiki/Netstat
+LANC Remastered: https://sourceforge.net/projects/lanc-remastered-ip/
+(Port Scanner) nmap/zenmap: https://nmap.org/zenmap/
+
+Linux packet sniffers and network monitors
+------------------------------------------
+tcpdump: https://www.tcpdump.org/
+iftop: http://www.ex-parrot.com/pdw/iftop/
+nload: https://www.tecmint.com/nload-monitor-linux-network-traffic-bandwidth-usage/
+netstat: https://linux.die.net/man/8/netstat 
+(Port Scanner) nmap: https://nmap.org/
